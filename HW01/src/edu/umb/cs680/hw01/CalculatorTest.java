@@ -61,7 +61,7 @@ public class CalculatorTest{
 		}
 		catch(IllegalArgumentException ex){
 			assertEquals("Division By Zero",ex.getMessage());
-			System.out.println(ex.getMessage());
+			//System.out.println(ex.getMessage());
 		}
 	}
 }
