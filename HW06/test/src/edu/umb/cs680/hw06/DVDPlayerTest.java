@@ -20,7 +20,7 @@ public class DVDPlayerTest {
 	public void DrawerClosedPlayingPlayButtonPushed_DrawerClosedPlaying() {
 		
 		dvd.playButtonPushed();
-		assertEquals(DrawerClosedPlaying.getInstance(), dvd.getCurrentStateOfDVD());
+		assertEquals(DrawerClosedPlaying.getInstance(), dvd.getCurrentStateOfDVD ());
 		
 	}
 	@Test
