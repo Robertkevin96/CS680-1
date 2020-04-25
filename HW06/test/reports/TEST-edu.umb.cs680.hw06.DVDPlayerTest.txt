@@ -1,10 +1,10 @@
 Testcase: edu.umb.cs680.hw06.DVDPlayerTest
-Test: DrawerClosedPlayingOpenCloseButtonPushed_DrawerOpen() took 18 milli sec(s)
+Test: DrawerClosedPlayingOpenCloseButtonPushed_DrawerOpen() took 19 milli sec(s)
 Test: DrawerClosedNotPlaying_playButtonPushed() took 1 milli sec(s)
-Test: DrawerClosedPlayingPlayButtonPushed_PlayButtonPushed() took 0 milli sec(s)
-Test: DrawerClosedPlayingPlayButtonPushed_DrawerClosedPlaying() took 1 milli sec(s)
+Test: DrawerClosedPlayingPlayButtonPushed_PlayButtonPushed() took 1 milli sec(s)
+Test: DrawerClosedPlayingPlayButtonPushed_DrawerClosedPlaying() took 0 milli sec(s)
 Test: DrawerOpenPlayButtonPushed_DrawerClosedPlaying() took 0 milli sec(s)
-Tests run: 5, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 30 milli sec(s)
+Tests run: 5, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 33 milli sec(s)
 ------------- Standard Output ---------------
 Please Wait...DVD stopped playing...
 Please Wait...Drawer is opening...
