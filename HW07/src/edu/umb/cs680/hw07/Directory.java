@@ -77,7 +77,7 @@ public class Directory extends FSElement {
 		}
 		return file;
 	}
-	//for testing purpose
+	//for testing purpose added
 	public Directory findDirByName(String dName) {
 		Directory directory = null;
 		if (dName.equals(getName()))
