@@ -1,0 +1,13 @@
+Testcase: edu.umb.cs680.hw15.ReverseAlphabeticalComparatorTest
+Test: getChilrenOfHomeReverseAlphabetical() took 3 milli sec(s)
+Test: getSubDirectoriesOfHomeReverseAlphabetical() took 2 milli sec(s)
+Test: getChilrenOfApplicationsReverseAlphabetical() took 2 milli sec(s)
+Test: getChilrenOfCodeReverseAlphabetical() took 0 milli sec(s)
+Test: getSubDirectoriesOfCodeReverseAlphabetical() took 1 milli sec(s)
+Test: getSubDirectoriesOfApplicationsReverseAlphabetical() took 1 milli sec(s)
+Test: sortFilesOfHomeReverseAlphabetical() took 1 milli sec(s)
+Test: sortFilesOfCodeReverseAlphabetical() took 36 milli sec(s)
+Test: getChilrenOfRootReverseAlphabetical() took 1 milli sec(s)
+Test: getSubDirectoriesOfRootReverseAlphabetical() took 1 milli sec(s)
+Test: sortFilesOfApplicationsReverseAlphabetical() took 1 milli sec(s)
+Tests run: 11, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 58 milli sec(s)

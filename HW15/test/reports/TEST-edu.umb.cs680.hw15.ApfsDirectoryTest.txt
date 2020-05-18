@@ -1,0 +1,12 @@
+Testcase: edu.umb.cs680.hw15.ApfsDirectoryTest
+Test: verifyDirectoryEqualityCode() took 1 milli sec(s)
+Test: verifyDirectoryEqualityHome() took 1 milli sec(s)
+Test: verifyDirectoryEqualityRoot() took 1 milli sec(s)
+Test: verifyDirectoryName() took 2 milli sec(s)
+Test: verifyDirectory() took 3 milli sec(s)
+Test: verfiyCount() took 2 milli sec(s)
+Test: verifyFilesInDirectory() took 0 milli sec(s)
+Test: verifySubDirectories() took 1 milli sec(s)
+Test: checkSize() took 1 milli sec(s)
+Test: verifyDirectoryEqualityApplications() took 1 milli sec(s)
+Tests run: 10, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 16 milli sec(s)

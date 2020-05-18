@@ -1,0 +1,13 @@
+Testcase: edu.umb.cs680.hw15.AlphabeticalComparatorTest
+Test: getChilrenOfCode() took 1 milli sec(s)
+Test: getChilrenOfHome() took 1 milli sec(s)
+Test: getChilrenOfRoot() took 1 milli sec(s)
+Test: sortFilesOfCode() took 1 milli sec(s)
+Test: sortFilesOfHome() took 6 milli sec(s)
+Test: getChilrenOfApplications() took 1 milli sec(s)
+Test: getSubDirectoriesOfApplications() took 5 milli sec(s)
+Test: getSubDirectoriesOfCode() took 1 milli sec(s)
+Test: getSubDirectoriesOfHome() took 2 milli sec(s)
+Test: getSubDirectoriesOfRoot() took 0 milli sec(s)
+Test: sortFilesOfApplications() took 4 milli sec(s)
+Tests run: 11, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 163 milli sec(s)
